@@ -34,31 +34,31 @@ I'm a **final-year BSc (Hons) Computer Science & Technology** undergraduate pass
   <tr>
     <td align="center"><strong>Languages</strong></td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=python,js,php,postgresql&theme=dark" />
+      <img src="https://skillicons.dev/icons?i=python,js,php,postgresql&theme=light" />
     </td>
   </tr>
   <tr>
     <td align="center"><strong>Frontend</strong></td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,vite&theme=dark" />
+      <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,vite&theme=light" />
     </td>
   </tr>
   <tr>
     <td align="center"><strong>Backend & Cloud</strong></td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,aws&theme=dark" />
+      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,aws&theme=light" />
     </td>
   </tr>
   <tr>
     <td align="center"><strong>Data & Tools</strong></td>
     <td align="center">
-      <img height="50" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/microsoftpowerbi.svg" title="Power BI" />
-      <img height="50" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/microsoftexcel.svg" title="Excel" />
-      <img height="50" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/jira.svg" title="Jira" />
-      <img height="50" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/canva.svg" title="Canva" />
-      <img height="50" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/figma.svg" title="Figma" />
-      <img height="50" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/git.svg" title="Git" />
-      <img height="50" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/visualstudiocode.svg" title="VS Code" />
+      <img height="40" src="https://img.shields.io/badge/Power%20BI-FCAE1B?style=for-the-badge&logo=power-bi&logoColor=white" alt="Power BI" />
+      <img height="40" src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" />
+      <img height="40" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
+      <img height="40" src="https://img.shields.io/badge/Canva-%2300C4CC?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva" />
+      <img height="40" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+      <img height="40" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+      <img height="40" src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
     </td>
   </tr>
 </table>
@@ -69,12 +69,12 @@ I'm a **final-year BSc (Hons) Computer Science & Technology** undergraduate pass
 
 <div align="center">
 
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=nipuni0110&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Nipuni's GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nipuni0110&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=nipuni0110&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="Nipuni's GitHub Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nipuni0110&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 
   <br><br>
 
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=nipuni0110&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=nipuni0110&theme=radical&hide_border=true" alt="GitHub Streak" />
 
   <br><br>
 
@@ -115,7 +115,5 @@ I'm a **final-year BSc (Hons) Computer Science & Technology** undergraduate pass
 </div>
 
 <div align="center" style="margin-top: 40px;">
-  <img src="https://media.giphy.com/media/L8K62iTDkz680RpJlW/giphy.gif" width="100" />
-  <br><br>
   <i>Thanks for visiting! Feel free to star ⭐ any repo you like — it keeps me motivated! ✨</i>
 </div>
