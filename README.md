@@ -1,74 +1,110 @@
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&random=false&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Nipuni+Nimeshika;%F0%9F%94%A5+Web+Developer+%7C+Business+Analyst;%F0%9F%8E%AF+Project+Manager+%7C+Data+Analyst;Building+the+future%2C+one+line+at+a+time+%F0%9F%9A%80" alt="Typing SVG" />
 
-<!-- Blue & Clean GitHub Profile README -->
-
-<h1 align="center">Hi 👋, I'm Nipuni Nimeshika</h1>
-<h3 align="center">Web Developer | Business Analyst | Project Manager | Data Analyst</h3>
-
----
-
-## 🔗 Portfolio  
-🌐 **Visit My Portfolio:**  
-👉 https://www.nipuni.me/  
-
----
-
-## 👩‍💻 About Me  
-- 🎓 BSc. (Hons) in Computer Science & Technology  
-- 🚀 Interested in: Web Development, Project Management, Data Science, Business Analysis  
-
----
-
-## 🔧 Technologies & Tools  
-
-### **Languages**
-![Python](https://img.shields.io/badge/Python-1E90FF?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-1E90FF?style=flat-square&logo=javascript&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-1E90FF?style=flat-square&logo=php&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-1E90FF?style=flat-square&logo=postgresql&logoColor=white)
-
-### **Web Development**
-![React](https://img.shields.io/badge/React-1E90FF?style=flat-square&logo=react&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-1E90FF?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-1E90FF?style=flat-square&logo=express&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-1E90FF?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1E90FF?style=flat-square&logo=css3&logoColor=white)
-
-### **Databases**
-![MongoDB](https://img.shields.io/badge/MongoDB-1E90FF?style=flat-square&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-1E90FF?style=flat-square&logo=firebase&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-1E90FF?style=flat-square&logo=mysql&logoColor=white)
-
-### **Cloud**
-![AWS](https://img.shields.io/badge/AWS-1E90FF?style=flat-square&logo=amazonaws&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-1E90FF?style=flat-square&logo=firebase&logoColor=white)
-
-### **Tools**
-![Git](https://img.shields.io/badge/Git-1E90FF?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-1E90FF?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-1E90FF?style=flat-square&logo=powerbi&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-1E90FF?style=flat-square&logo=canva&logoColor=white)
-![CodeBlocks](https://img.shields.io/badge/CodeBlocks-1E90FF?style=flat-square&logo=codeblocks&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-1E90FF?style=flat-square&logo=jira&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-1E90FF?style=flat-square&logo=figma&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-1E90FF?style=flat-square&logo=microsoft-excel&logoColor=white)
-
----
-
-## 📊 GitHub Stats  
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=nipuni0110&show_icons=true&theme=blueberry)
+<img src="https://komarev.com/ghpvc/?username=nipuni0110&label=Profile+Views+%F0%9F%91%80&color=00d4ff&style=flat-square" alt="Profile views" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nipuni0110&layout=compact&theme=blueberry)
+<a href="https://nipuni.me">
+  <img src="https://img.shields.io/badge/%F0%9F%8C%90%20Portfolio-Visit%20Now-00D4FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+</a>
+
+<a href="https://www.linkedin.com/in/nipuni-nimeshika/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-00D4FF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
 
 </div>
 
 ---
 
-## 📫 Contact Me  
-📧 Email: nipuninimeshika66@gmail.com  
-🔗 LinkedIn: https://www.linkedin.com/in/nipuni-nimeshika/  
+### 👩‍💻 About Me
+I'm a **final-year BSc (Hons) Computer Science & Technology** undergraduate passionate about turning ideas into scalable digital solutions.
+
+🔭 Currently enhancing my full-stack & data analytics portfolio  
+🌱 Mastering **React, Node.js, AWS, Power BI** and advanced **Project Management**  
+⚡ Love blending **beautiful UI/UX** with **smart business logic**  
+💡 Always open to collaborations in Web Dev, Data Science, or Product teams
 
 ---
 
-⭐ *If you like my work, feel free to star my repositories!*
+### 🛠️ Tech Stack & Tools
+
+<table align="center">
+  <tr>
+    <td align="center"><strong>Languages</strong></td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=py,js,php,sql&theme=dark" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Frontend</strong></td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,vite&theme=dark" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Backend & Cloud</strong></td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,aws&theme=dark" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Data & Tools</strong></td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=powerbi,excel,figma,jira,git,vscode,canva&theme=dark" />
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=nipuni0110&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Nipuni's GitHub Stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nipuni0110&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nipuni0110&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+</div>
+
+<br>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nipuni0110/nipuni0110/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nipuni0110/nipuni0110/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/nipuni0110/nipuni0110/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+> The snake eats my contributions every 24 hours 🐍
+
+---
+
+### 🚀 Featured Projects
+| Project | Description | Tech | Live | Code |
+|--------|-------------|------|------|------|
+| 🌐 **SmartQuiz 2024** | Dynamic quiz platform with real-time scoring | React, Firebase | [Live](https://smartquiz-2024.web.app) | [Code](https://github.com/nipuni0110/SmartQuiz2024) |
+| ☁️ **SkyCast Weather** | Real-time weather app with beautiful UI | JS, OpenWeather API | [Live](https://skycast2024.web.app) | [Code](https://github.com/nipuni0110/SkyCast2024) |
+| ✅ **Advanced To-Do** | Task manager with Firebase sync | React, Firebase | [Live](https://myto-dolist-2024.web.app) | [Code](https://github.com/nipuni0110/Advanced-ToDo) |
+
+
+### 📬 Let's Connect!
+<div align="center">
+
+<a href="mailto:nipuninimeshika66@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Me-00D4FF?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/nipuni-nimeshika/">
+  <img src="https://img.shields.io/badge/LinkedIn-Message%20Me-00D4FF?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+</div>
+
+<div align="center" style="margin-top: 30px;">
+  <img src="https://media.giphy.com/media/L8K62iTDkz680RpJlW/giphy.gif" width="100" />
+  <br><br>
+  <i>Thanks for visiting! ✨ Feel free to star ⭐ any repo you like — it keeps me motivated!</i>
+</div>
