@@ -20,8 +20,8 @@
 
 ### About Me
 
-- 🎓 BSc. (Hons) in Computer Science & Technology
-- 🚀 Interested in: Web Development, Project Management, Data Science, Business Analysis
+-  BSc. (Hons) in Computer Science & Technology
+-  Interested in: Web Development, Project Management, Data Science, Business Analysis
 
 ---
 
@@ -108,7 +108,5 @@
 </div>
 
 <div align="center" style="margin-top: 40px;">
-  <img src="https://media.giphy.com/media/L8K62iTDkz680RpJlW/giphy.gif" width="100" />
-  <br><br>
   <i>Thanks for visiting! Feel free to star any repo you like — it keeps me motivated!</i>
 </div>
