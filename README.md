@@ -1,14 +1,14 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=00D4FF&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Nipuni+Nimeshika" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=00D4FF&center=true&vCenter=true&random=false&width=600&lines=Hi+I%27m+Nipuni+Nimeshika" alt="Typing SVG" />
   <br>
-  <img src="https://img.shields.io/badge/Web%20Developer%20%C2%B7%20Business%20Analyst%20%C2%B7%20Project%20Manager%20%C2%B7%20Data%20Analyst-00D4FF?style=for-the-badge&logo=github&logoColor=white" alt="Roles" />
+  <img src="https://img.shields.io/badge/Web%20Developer%20·%20Business%20Analyst%20·%20Project%20Manager%20·%20Data%20Analyst-00D4FF?style=for-the-badge&logo=github&logoColor=white" alt="Roles" />
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=nipuni0110&label=Profile+Views+%F0%9F%91%80&color=00d4ff&style=flat-square" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=nipuni0110&label=Profile+Views&color=00d4ff&style=flat-square" alt="Profile views" />
 
   <a href="https://nipuni.me">
-    <img src="https://img.shields.io/badge/%F0%9F%8C%90%20Portfolio-Visit%20Now-00D4FF?style=for-the-badge&logo=googlechrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-00D4FF?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
 
   <a href="https://www.linkedin.com/in/nipuni-nimeshika/">
@@ -27,38 +27,38 @@
 
 ### Tech Stack & Tools
 
-<table align="center">
-  <tr>
-    <td align="center"><strong>Languages</strong></td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=python,js,php,postgresql&theme=light" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><strong>Frontend</strong></td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,vite&theme=light" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><strong>Backend & Cloud</strong></td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,aws&theme=light" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><strong>Data & Tools</strong></td>
-    <td align="center">
-      <img height="40" src="https://img.shields.io/badge/Power%20BI-FCAE1B?style=for-the-badge&logo=power-bi&logoColor=white" />
-      <img height="40" src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-      <img height="40" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
-      <img height="40" src="https://img.shields.io/badge/Canva-%2300C4CC?style=for-the-badge&logo=Canva&logoColor=white" />
-      <img height="40" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-      <img height="40" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-      <img height="40" src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+#### Languages
+<img height="40" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img height="40" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img height="40" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+<img height="40" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+
+#### Frontend
+<img height="40" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+<img height="40" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img height="40" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img height="40" src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+<img height="40" src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+
+#### Backend & Cloud
+<img height="40" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img height="40" src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+<img height="40" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img height="40" src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+<img height="40" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+
+#### Data & Tools
+<img height="40" src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+<img height="40" src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+<img height="40" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+<img height="40" src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
+<img height="40" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+<img height="40" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img height="40" src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+
+</div>
 
 ---
 
