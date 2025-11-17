@@ -119,8 +119,6 @@
 
 <br><br>
 
-<img src="https://media.giphy.com/media/M9gbBd9oZEdlzGYuj2/giphy.gif" width="80"/>
-
 **Thanks for visiting! Feel free to star any project you like — it truly motivates me!**
 
 </div>
