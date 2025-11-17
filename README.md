@@ -90,8 +90,8 @@
 | Project            | Description                              | Tech                | Live Demo                             | Code                                      |
 |--------------------|------------------------------------------|---------------------|---------------------------------------|-------------------------------------------|
 | SmartQuiz 2024     | Dynamic quiz platform with real-time scoring | React, Firebase     | [Live](https://smartquiz-2024.web.app)     | [Code](https://github.com/nipuni0110/SmartQuiz2024) |
-| SkyCast Weather    | Real-time weather app with stunning UI   | JavaScript, API     | [Live](https://skycast2024.web.app)        | [Code](https://github.com/nipuni0110/SkyCast2024)   |
-| Advanced To-Do     | Task manager with Firebase sync          | React, Firebase     | [Live](https://myto-dolist-2024.web.app)   | [Code](https://github.com/nipuni0110/Advanced-ToDo) |
+| SkyCast Weather    | Real-time weather app with stunning UI   | JavaScript, API     | [Live](https://skycast2024.web.app)        | [Code](https://github.com/nipuni0110/weather-app-updated)   |
+| Advanced To-Do     | Task manager with Firebase sync          | React, Firebase     | [Live](https://myto-dolist-2024.web.app)   | [Code](https://github.com/nipuni0110/myTo-dolistapp) |
 
 ---
 
