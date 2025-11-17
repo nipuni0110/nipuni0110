@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=00D4FF&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Nipuni+Nimeshika" alt="Typing SVG" />
   <br>
-  <img src="https://img.shields.io/badge/%F0%9F%94%A5_Web+Developer+%7C+Business+Analyst-%F0%9F%8E%AF_Project+Manager+%7C+Data+Analyst-00D4FF?style=for-the-badge&logo=github&logoColor=white" alt="Roles" />
+  <img src="https://img.shields.io/badge/%F0%9F%94%A5_Web Developer+%7C+Business Analyst-%F0%9F%8E%AF-Project Manager+%7C+Data Analyst-00D4FF?style=for-the-badge&logo=github&logoColor=white" alt="Roles" />
 </div>
 
 <div align="center">
