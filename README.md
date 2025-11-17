@@ -1,7 +1,10 @@
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Nipuni+Nimeshika;%F0%9F%94%A5+Web+Developer+%7C+Business+Analyst;%F0%9F%8E%AF+Project+Manager+%7C+Data+Analyst;Building+the+future%2C+one+line+at+a+time+%F0%9F%9A%80" alt="Typing SVG" />
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=00D4FF&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Nipuni+Nimeshika" alt="Typing SVG" />
+  <br>
+  <img src="https://img.shields.io/badge/%F0%9F%94%A5_Web+Developer+%7C+Business+Analyst-%F0%9F%8E%AF_Project+Manager+%7C+Data+Analyst-00D4FF?style=for-the-badge&logo=github&logoColor=white" alt="Roles" />
+</div>
 
 <div align="center">
-
   <img src="https://komarev.com/ghpvc/?username=nipuni0110&label=Profile+Views+%F0%9F%91%80&color=00d4ff&style=flat-square" alt="Profile views" />
 
   <a href="https://nipuni.me">
@@ -11,10 +14,10 @@
   <a href="https://www.linkedin.com/in/nipuni-nimeshika/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-00D4FF?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-
 </div>
 
 ---
+
 ### 👩‍💻 About Me
 I'm a **final-year BSc (Hons) Computer Science & Technology** undergraduate passionate about turning ideas into scalable digital solutions.
 
@@ -24,6 +27,7 @@ I'm a **final-year BSc (Hons) Computer Science & Technology** undergraduate pass
 💡 Always open to collaborations in Web Dev, Data Science, or Product teams
 
 ---
+
 ### 🛠️ Tech Stack & Tools
 
 <table align="center">
@@ -60,16 +64,17 @@ I'm a **final-year BSc (Hons) Computer Science & Technology** undergraduate pass
 </table>
 
 ---
+
 ### 📊 GitHub Analytics
 
 <div align="center">
 
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=nipuni0110&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nipuni0110&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=nipuni0110&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Nipuni's GitHub Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nipuni0110&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
   <br><br>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nipuni0110&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=nipuni0110&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
   <br><br>
 
@@ -84,6 +89,7 @@ I'm a **final-year BSc (Hons) Computer Science & Technology** undergraduate pass
 </div>
 
 ---
+
 ### 🚀 Featured Projects
 
 | Project            | Description                              | Tech                | Live Demo                             | Code                                      |
@@ -93,6 +99,7 @@ I'm a **final-year BSc (Hons) Computer Science & Technology** undergraduate pass
 | Advanced To-Do     | Task manager with Firebase sync          | React, Firebase     | [Live](https://myto-dolist-2024.web.app)   | [Code](https://github.com/nipuni0110/Advanced-ToDo) |
 
 ---
+
 ### 📬 Let's Connect!
 
 <div align="center">
