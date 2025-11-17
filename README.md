@@ -2,7 +2,7 @@
 <!-- Blue & Clean GitHub Profile README -->
 
 <h1 align="center">Hi 👋, I'm Nipuni Nimeshika</h1>
-<h3 align="center">Web Developer | Business Analyst | Project Manager</h3>
+<h3 align="center">Web Developer | Business Analyst | Project Manager | Data Analyst</h3>
 
 ---
 
@@ -14,7 +14,7 @@
 
 ## 👩‍💻 About Me  
 - 🎓 BSc. (Hons) in Computer Science & Technology  
-- 🚀 Interested in: Web Development, Project Management, Data Visualization, Business Analysis  
+- 🚀 Interested in: Web Development, Project Management, Data Science, Business Analysis  
 
 ---
 
